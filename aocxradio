@@ -1,0 +1,118 @@
+{
+
+
+#တရားအမည်ပြခြင်း
+"tayarName1":"မဟာသမယသုတ် (ရုပ်သံ)",
+"tayarName2":"၂၄ ပစ္စည်းပဌာန်း (အသံ)",
+"tayarName3":"ပရိတ်ကြီး (၁၁) သုတ် (အသံ)",
+"tayarName4":"ဂုဏ်တော်ကွန်ချာ (အသံ)",
+"tayarName5":"ပထဝီဇယ (၁၄) ဂါထာ (အသံ)",
+"tayarName6":"uploading",
+"tayarName7":"uploading",
+"tayarName8":"uploading",
+"tayarName9":"uploading",
+
+#type အမျိုးအစား ထည့်ရန်
+
+"tayar1Type":"mp4",
+"tayar2Type":"mp3",
+"tayar3Type":"mp4",
+"tayar4Type":"mp3",
+"tayar5Type":"mp3",
+"tayar6Type":"mp3",
+"tayar7Type":"",
+"tayar8Type":"",
+"tayar9Type":"",
+
+#mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
+"tayarBmp1":"",
+
+"tayarBmp2":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"tayarBmp3":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"tayarBmp4":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"tayarBmp5":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"tayarBmp6":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"tayarBmp7":"",
+
+"tayarBmp8":"",
+
+"tayarBmp9":"",
+
+"tayarVideo1":"https://www.dropbox.com/scl/fi/c22wzcxmg3kknh3ac3vy9/.tayar1?rlkey=ytym5wokvmz20m1a4y9sqjx7x&st=ktje4pst&dl=1",
+
+"tayarVideo2":"https://www.dropbox.com/scl/fi/l799fmz99bjmdnkz8hcxp/.tayar2?rlkey=r6dn9vp44f15hossiksu3cpet&st=20dnjeuv&dl=1",
+
+"tayarVideo3":"https://www.dropbox.com/scl/fi/es93w8r7yxsmgqrygh9wm/.tayar3?rlkey=3p60y37fned5ewujzv7itpn3m&st=kmwu3irs&dl=1",
+
+"tayarVideo4":"https://www.dropbox.com/scl/fi/ebyrqnkx3i1eiflepkfu6/.tayar4?rlkey=jf4rkql8x16xrwid7lssg5cm8&st=s8raihkn&dl=1",
+
+"tayarVideo5":"https://www.dropbox.com/scl/fi/7hxnf6vkzb3dc3c7zyamr/.tayar5?rlkey=fv3oxgta32234wexfpejm4cgq&st=sqwb4z0o&dl=1",
+
+"tayarVideo6":"",
+
+"tayarVideo7":"",
+
+"tayarVideo8":"",
+
+"tayarVideo9":"",
+#တစ်ခုစာ ပြီး၏။
+#နားဆင်စရာအမည်ပြခြင်း
+"narcinName1":"စာရေးဆရာ နန္ဒသိန်းဇံ",
+"narcinName2":"uploading",
+"narcinName3":"uploading",
+"narcinName4":"uploading",
+"narcinName5":"uploading",
+"narcinName6":"uploading",
+"narcinName7":"uploading",
+
+#narcinType အမျိုးအစား ထည့်ရန်
+
+"narcin1Type":"mp3",
+"narcin2Type":"mp3",
+"narcin3Type":"mp4",
+"narcin4Type":"mp3",
+"narcin5Type":"mp3",
+"narcin6Type":"mp3",
+"narcin7Type":"",
+
+#mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
+
+"narcinBmp1":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp2":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp3":"",
+
+"narcinBmp4":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp5":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp6":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
+
+"narcinBmp7":"",
+
+#encrypt လုပ်ပြီးတင်။
+
+"narcinVideo1":"https://www.dropbox.com/scl/fi/snjp4w79mnh0xq1rule8d/.narcin1?rlkey=0098skoldi0l98bv29br8a6c2&st=os4h1wyu&dl=1",
+
+"narcinVideo2":"",
+
+"narcinVideo3":"",
+
+"narcinVideo4":"",
+
+"narcinVideo5":"",
+
+"narcinVideo6":"",
+
+"narcinVideo7":""
+
+#နားဆင်ပြီး၏။
+
+
+}
