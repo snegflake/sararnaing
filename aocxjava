@@ -1,0 +1,56 @@
+[
+
+
+
+{"id":"4",
+"title":"SDK 29 နှင့်အထက် ပါမစ်ရှန်",
+"code":"code ကရှည်တယ်။",
+"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg"},
+
+{"id":"3",
+"title":"lottie ကို အွန်လိုင်းက သုံးနည်း",
+"code":"final LottieAnimationView lot1 = (LottieAnimationView) findViewById(R.id.lot1);//lot1 အမည်ပြောင်း
+final LottieAnimationView lot2 = (LottieAnimationView) findViewById(R.id.lot2);//lot2 အမည်ပြောင်း
+final LottieAnimationView lot3 = (LottieAnimationView) findViewById(R.id.lot3);//lot3 အမည်ပြောင်း
+lot1.setElevation((float)0.1d);//linear ပေါ်မှာကြွနေအောင်လုပ်တာ။
+
+lot1.setAnimationFromUrl(lottieUrl1); // URL ကနေ animation load လုပ်မယ်
+lot1.setRepeatCount(-1); // Infinite loop
+lot1.playAnimation();
+
+///ပုံပါအတိုင်း Share preference ထည့်။ network တွေထည့်။ json သိမ်း။ string variable ထည့်။ onPostCreate မှာထည့်။ lottie attributes ပြင်။ ပြင်နည်း....
+
+//custom attributes ထည့်ခြင်း ပုံကြည့်ပါ",
+"imglink":"https://www.dropbox.com/scl/fi/1o765h9vxqqthlv2vwbnp/IMG_20250521_181834.png?rlkey=9zzu2tbusim6ljwmpxhfzz6eo&st=m12xbk1o&dl=1"},
+
+{"id":"2","code":"getWindow().getDecorView().setSystemUiVisibility( View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) { getWindow().getAttributes().layoutInDisplayCutoutMode = WindowManager.LayoutParams.LAYOUT_IN_DISPLAY_CUTOUT_MODE_SHORT_EDGES; }
+
+if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) { getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS); };
+
+getWindow().clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+
+getWindow().addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS); 
+//getWindow().setNavigationBarColor(0xFF000000);
+//getWindow().setStatusBarColor(0xFF000000);
+getWindow().setNavigationBarColor(Color.TRANSPARENT);
+getWindow().setStatusBarColor(Color.TRANSPARENT);
+
+///onCreate မှာ တိုက်ရိုက်ထည့်ရမည်။ ဖုန်းကင်မရာ နေရာနဲ့တော့ Linear တွေချိန်ရမည်။ margin Top ကို 40dp လောက်ခွာထားမှာ အဆင်ပြေမည်။",
+"title":"နိုတီဘားနဲ့ နေဗီဘားကို ဖျောက်ခြင်း",
+"imglink":"https://i.postimg.cc/50hM5vc5/IMG-20250521-181834.png"},
+
+{"id":"1","code":"int nightModeFlags = getResources().getConfiguration().uiMode & android.content.res.Configuration.UI_MODE_NIGHT_MASK;
+
+darkModeEnabled = true;
+
+darkModeEnabled = (nightModeFlags == android.content.res.Configuration.UI_MODE_NIGHT_YES);
+
+///more block မှာ အမည်တစ်ခုနဲ့ထည့်ရမည်။ darkModeEnabled လို့ Boolean variable ထည့်ရမည်။ onCreate မှာ အခုဟာကို ထည့်ထားမှရမည်။",
+"title":"Dark Mode စစ်ဆေးခြင်း",
+"imglink":"https://i.pinimg.com/736x/da/c3/44/dac3447dc0bf1a874a15f5e7160afd21.jpg"}
+
+
+
+]
