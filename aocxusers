@@ -30,13 +30,13 @@
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 18e1255f2d122ebd",
+"noseculist":"2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
 "scrreclist":"2b9706220ffbf434 61e7ed2230e6c0cc",
 
 #ဉာဏ်စမ်း
-"quizlist":"fr33 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf d4946b3ec38f6378",
+"quizlist":"fr33",
 
 #ဧကံသ
 "cat1list":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
@@ -54,16 +54,16 @@
 "cat5list":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #ယတြာများ ပွဲတွေ့ဂါထာများ တင်ထားသည်
-"cat6list":"2b9706220ffbf434 9b155dc4bfaec505 61e7ed2230e6c0cc 96459c9d50502ccf",
+"cat6list":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 18e1255f2d122ebd",
+"mhblist":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #compass ကိုနှိပ်ရင်
-"complist":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 18e1255f2d122ebd",
+"complist":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #ဆရာမင်းသိင်္ခနည်း ဧကံသရယ် ဂြိုဟ်ခွင်ရယ်
-"sirminthkha":"2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 18e1255f2d122ebd",
+"sirminthkha":"2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
@@ -72,7 +72,7 @@
 "olduserslist":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"2b9706220ffbf434 f6a40f534355d8c7 9b155dc4bfaec505 61e7ed2230e6c0cc 96459c9d50502ccf 18e1255f2d122ebd",
+"profnamelist":"2b9706220ffbf434 f6a40f534355d8c7 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #IDများနှင့်အမည်များ
 
