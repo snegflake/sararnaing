@@ -14,7 +14,20 @@
 
 #ဆာဗာ ပြုပြင်ခြင်း အိုင်ဒီနဲ့ဒိုင်ယာလော့ပြခြင်း
 # 2b9706220ffbf434 စရာနိုင်
+
 "diaMainte":"",
+
+#ကပ်ခ်ျရှင်းရန် id ထည့်ပါ
+
+"cleanCacheLists":"2b9706220ffbf434 f6a40f534355d8c7 61e7ed2230e6c0cc",
+
+#သံသယရှိသူ uninstall လုပ်ဖို့ id ထည့်ရန်/ allDel ဆိုသုံးသမျှလူ အကုန်ဖျက်သည်
+
+"thanThayaLists":"2b9706220ffbf434",
+
+#အကြောင်းအရာအသစ်တင်ပြီးရင် TRUE ဆို refresh
+
+"refreshIt":"FALSE",
 
 
 "mainmarq":"              အွန်းလိုင်းရပါပြီ။ သုံးလို့မရသေးပါက ပြန်ထွက်၊ ပြန်ဝင်ပေးပါ။ အင်တာနက်ကို အများကြီး မကုန်ကျအောင် လုပ်ပေးထားပါသည်။ ကျေးဇူးတင်ပါသည်။",
@@ -133,18 +146,6 @@ RCjbmDhu4vJShB79+R8=",
 "ggsheetID":"DVliKMZyiwwEPWEfrI6dWhrv9x+vqxL1A9+6fMBy/trwCmKna3nHuBHal+Fml1i/",
 
 "contactMe":"IdIQORs+HlkiYzcTCsn/dvRU7EVWlqpWbSIDtwQTXVs=",
-
-#ကပ်ခ်ျရှင်းရန် id ထည့်ပါ
-
-  "cleanCacheLists":"2b9706220ffbf434 f6a40f534355d8c7 61e7ed2230e6c0cc",
-
-#သံသယရှိသူ uninstall လုပ်ဖို့ id ထည့်ရန်/ allDel ဆိုသုံးသမျှလူ အကုန်ဖျက်သည်
-
-  "thanThayaLists":"2b9706220ffbf434",
-
-#အကြောင်းအရာအသစ်တင်ပြီးရင် TRUE ဆို refresh။
-
-  "refreshIt":"FALSE",
 
 #update ပေးတဲ့ နေရာ အစ
   "Visibility": "VISIBLE",
