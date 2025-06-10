@@ -101,12 +101,24 @@
 
 "adVideo3":"https://www.dropbox.com/scl/fi/vsitu5mwyapwnwuka00lu/camerashoot.mp4?rlkey=3xspbu8a3i9xeztboi34hbft9&st=9bsolel9&dl=1",
 
-"adAbout3":"AD4",
+"adAbout3":"AD3",
 
 "adTimer3":"60",
 
 "adSkip3":"10",
 
-"adAddr3":""
+"adAddr3":"",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo4":"https://www.dropbox.com/scl/fi/vsitu5mwyapwnwuka00lu/camerashoot.mp4?rlkey=3xspbu8a3i9xeztboi34hbft9&st=9bsolel9&dl=1",
+
+"adAbout4":"AD4",
+
+"adTimer4":"60",
+
+"adSkip4":"10",
+
+"adAddr4":""
 
 }
