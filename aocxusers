@@ -30,7 +30,7 @@
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
+"noseculist":" f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
 "scrreclist":"2b9706220ffbf434 61e7ed2230e6c0cc",
@@ -57,13 +57,13 @@
 "cat6list":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
+"mhblist":" 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #compass ကိုနှိပ်ရင်
-"complist":"2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
+"complist":" 61e7ed2230e6c0cc 96459c9d50502ccf",
 
 #ဆရာမင်းသိင်္ခနည်း ဧကံသရယ် ဂြိုဟ်ခွင်ရယ်
-"sirminthkha":"2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
+"sirminthkha":" f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
