@@ -67,7 +67,7 @@
 
 "adAbout":"ကြော်ငြာများ ထည့်သွင်းလိုပါက https://www.tiktok.com/@darmmpyi ကိုဆက်သွယ်နိုင်ပါပြီ",
 
-"adTimer":"54",
+"adTimer":"60",
 
 "adSkip":"10",
 
@@ -77,48 +77,16 @@
 
 "adVideo1":"https://www.dropbox.com/scl/fi/hkezyej11r6pzzdhfb18f/walkingwave.mp4?rlkey=u0j41tse66arupd2tx7vtukio&st=f4aau9tn&dl=1",
 
-"adAbout1":"ဆောင်းပါးများ ဘယ်လိုဖတ်ရမလဲ လေ့လာခြင်း။",
-
-"adTimer1":"42",
-
-"adSkip1":"10",
-
-"adAddr1":"",
-
 #encrypt လုပ်ပြီးတင်။
 
 "adVideo2":"https://www.dropbox.com/scl/fi/mtzlm2a4d95k90u2yqytm/whiteSkirt.mp4?rlkey=w31dmptugr45200hnx4qhog3o&st=9ulo3nyi&dl=1",
-
-"adAbout2":"AD3",
-
-"adTimer2":"60",
-
-"adSkip2":"10",
-
-"adAddr2":"",
 
 #encrypt လုပ်ပြီးတင်။
 
 "adVideo3":"https://www.dropbox.com/scl/fi/vsitu5mwyapwnwuka00lu/camerashoot.mp4?rlkey=3xspbu8a3i9xeztboi34hbft9&st=9bsolel9&dl=1",
 
-"adAbout3":"AD3",
-
-"adTimer3":"60",
-
-"adSkip3":"10",
-
-"adAddr3":"",
-
 #encrypt လုပ်ပြီးတင်။
 
-"adVideo4":"https://www.dropbox.com/scl/fi/vsitu5mwyapwnwuka00lu/camerashoot.mp4?rlkey=3xspbu8a3i9xeztboi34hbft9&st=9bsolel9&dl=1",
-
-"adAbout4":"AD4",
-
-"adTimer4":"60",
-
-"adSkip4":"10",
-
-"adAddr4":""
+"adVideo4":"https://www.dropbox.com/scl/fi/vsitu5mwyapwnwuka00lu/camerashoot.mp4?rlkey=3xspbu8a3i9xeztboi34hbft9&st=9bsolel9&dl=1"
 
 }
