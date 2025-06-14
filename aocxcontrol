@@ -106,7 +106,7 @@
 "notice9":"                   အများဆုံးသော ယူဆချက်များကို စုစည်းပေးထားပါသည်။",
 
 #စကားစုများ ရေးသားခြင်း
-"quoteslink":"",
+"newcatelink":"https://raw.githubusercontent.com/igwzpro/reader/refs/heads/main/igwzquotes",
 
 #spjson အမည်များ ရေးထားခြင်း
 "jsonlink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxjson",
