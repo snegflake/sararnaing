@@ -105,8 +105,9 @@
 "slidertxt9":"“အသစ်များဖြစ်ပါသည်။”",
 "notice9":"အကြောင်းအရာ အသစ်များ ရေးသားထားခြင်းဖြစ်ပါသည်။",
 
-#အသစ်များ ရေးသားခြင်း link
-"newcatelink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxnew",
+#အသစ်များ ရေးသားခြင်း link blank hide
+#https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxnew
+"newcatelink":"",
 
 #spjson အမည်များ ရေးထားခြင်း
 "jsonlink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxjson",
