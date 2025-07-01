@@ -9,8 +9,6 @@
 "tayarName5":"ပထဝီဇယ (၁၄) ဂါထာ (အသံ)",
 "tayarName6":"ခင်ပွန်းကြီးဆယ်ပါး (စာတန်းထိုး)",
 "tayarName7":"uploading",
-"tayarName8":"uploading",
-"tayarName9":"uploading",
 
 #type အမျိုးအစား ထည့်ရန်
 
@@ -21,8 +19,6 @@
 "tayar5Type":"mp3",
 "tayar6Type":"mp4",
 "tayar7Type":"",
-"tayar8Type":"",
-"tayar9Type":"",
 
 #mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
 "tayarBmp1":"",
@@ -39,10 +35,6 @@
 
 "tayarBmp7":"",
 
-"tayarBmp8":"",
-
-"tayarBmp9":"",
-
 "tayarVideo1":"https://www.dropbox.com/scl/fi/c22wzcxmg3kknh3ac3vy9/.tayar1?rlkey=ytym5wokvmz20m1a4y9sqjx7x&st=ktje4pst&dl=1",
 
 "tayarVideo2":"https://www.dropbox.com/scl/fi/l799fmz99bjmdnkz8hcxp/.tayar2?rlkey=r6dn9vp44f15hossiksu3cpet&st=20dnjeuv&dl=1",
@@ -57,10 +49,8 @@
 
 "tayarVideo7":"",
 
-"tayarVideo8":"",
-
-"tayarVideo9":"",
 #တစ်ခုစာ ပြီး၏။
+
 #နားဆင်စရာအမည်ပြခြင်း
 "narcinName1":"စာရေးဆရာ နန္ဒသိန်းဇံ",
 "narcinName2":"uploading",
