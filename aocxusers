@@ -9,72 +9,73 @@
 
 #javaCode users
 
-"javalist":"2b9706220ffbf434 61e7ed2230e6c0cc 029dd2d2d4c6587f",
+"javalist":"2b9706220ffbf434 61e7ed2230e6c0cc 029dd2d2d4c6587f 841796007f4304be",
 
 #AdRemoveUserID fr33 ဆို Ad မပြ VIP အနေနဲ့ပြ
-"adremusers":"61e7ed2230e6c0cc 96459c9d50502ccf 029dd2d2d4c6587f 64f27ce70b1751b8",
+"adremusers":"61e7ed2230e6c0cc 96459c9d50502ccf 029dd2d2d4c6587f 64f27ce70b1751b8 841796007f4304be",
 
 #longclick igwz fr33 ဆို လူတိုင်းရ
-"longPress":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
+"longPress":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
 
 #usertips
-"usertips":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
+"usertips":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
 
 #noclean72hours
-"nocln72hrs":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
+"nocln72hrs":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
 
 #enendeusers
-"endeusers":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc",
+"endeusers":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
 
 #blockusers
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 64f27ce70b1751b8",
+"noseculist":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 64f27ce70b1751b8 841796007f4304be",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
-"scrreclist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc",
+"scrreclist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 841796007f4304be",
 
 #ဉာဏ်စမ်း
 "quizlist":"fr33",
 
 #ဧကံသ
-"cat1list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8",
+"cat1list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
 
 #အင်္ဂဝိဇ္ဇာ
-"cat2list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
+"cat2list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
 
 #တားရော့
-"cat3list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
+"cat3list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
 
 #စိတ်ညှို့ပညာ
-"cat4list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
+"cat4list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
 
 #အခြားနှင့် နိမိတ်ပညာ
-"cat5list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
+"cat5list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
 
 #ယတြာများ ပွဲတွေ့ဂါထာများ တင်ထားသည်
-"cat6list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8",
+"cat6list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8",
+"mhblist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
 
 #compass ကိုနှိပ်ရင်
-"complist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8",
+"complist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be 64f27ce70b1751b8",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf",
+"olduserslist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8",
+"profnamelist":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
 
 #IDများနှင့်အမည်များ
 
 "64f27ce70b1751b8":"မကြီးဌေး",
 "029dd2d2d4c6587f":"အတီး",
+"841796007f4304be":"စရာနိုင်_",
 "61e7ed2230e6c0cc":"စရာနိုင်_Offical",
 "2b9706220ffbf434":"စရာနိုင်",
 "f6a40f534355d8c7":"WEEP",
