@@ -72,9 +72,13 @@
 
 "javaSliderImage5":"https://i.pinimg.com/736x/22/d2/44/22d2443d8a40cd634fead66691863453.jpg",
 
+#"igwzSliderImage1":"https://i.pinimg.com/736x/04/d6/a2/04d6a2c74e0aa3ed57fb0a3e4b08128e.jpg",
+#"slidertxt1":"“ဧကံသဗျာကရဏ”",
+#"notice1":"                    ဆရာကြီး မင်းသိင်္ခ၏ကျမ်းစာအုပ် တစ်အုပ်လုံးနှင့် ကျင့်စဉ်များကို မှတ်တမ်းတင်ထားခြင်းဖြစ်သည်။",
+
 "igwzSliderImage1":"https://i.pinimg.com/736x/04/d6/a2/04d6a2c74e0aa3ed57fb0a3e4b08128e.jpg",
-"slidertxt1":"“ဧကံသဗျာကရဏ”",
-"notice1":"                    ဆရာကြီး မင်းသိင်္ခ၏ကျမ်းစာအုပ် တစ်အုပ်လုံးနှင့် ကျင့်စဉ်များကို မှတ်တမ်းတင်ထားခြင်းဖြစ်သည်။",
+"slidertxt1":"“ကျန်းမာရေး (ခေတ်နဲ့အညီ)”",
+"notice1":"                    ဆရာမကြီး ဒေါ်ခင်နွယ်ဝင်းရဲ့ အသိပညာများကို လိုက်လျောညီထွေ စုစည်းထားပါသည်။",
 
 "igwzSliderImage2":"https://i.pinimg.com/736x/a9/29/82/a92982615d50230c90e46056c6a89c54.jpg",
 "slidertxt2":"“အင်္ဂဝဇ္ဇာ”",
@@ -128,7 +132,10 @@
 "quizlink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxquiz",
 
 #ဧကံသဗျာကရဏ
-"cate1link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxakt",
+#"cate1link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxakt",
+
+#ကျမ္မာရေး
+"cate1link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxkyanmar",
 
 #အင်္ဂဝိဇ္ဇာပညာ
 "cate2link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxigwz",
