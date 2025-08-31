@@ -1,6 +1,6 @@
 #https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxusers
 
-#atee 2b9706220ffbf434 61e7ed2230e6c0cc
+#atee 4295ee8d0ad53c03 61e7ed2230e6c0cc
 {
 
 
@@ -9,76 +9,72 @@
 
 #javaCode users
 
-"javalist":"2b9706220ffbf434 61e7ed2230e6c0cc 029dd2d2d4c6587f 841796007f4304be",
+"javalist":"4295ee8d0ad53c03",
 
 #AdRemoveUserID fr33 ဆို Ad မပြ VIP အနေနဲ့ပြ
-"adremusers":"61e7ed2230e6c0cc 96459c9d50502ccf 029dd2d2d4c6587f 64f27ce70b1751b8 841796007f4304be",
+"adremusers":"4295ee8d0ad53c03",
 
 #longclick igwz fr33 ဆို လူတိုင်းရ
-"longPress":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
+"longPress":"4295ee8d0ad53c03",
 
 #usertips
-"usertips":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
+"usertips":"4295ee8d0ad53c03",
 
 #noclean72hours
-"nocln72hrs":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
+"nocln72hrs":"4295ee8d0ad53c03",
 
 #enendeusers
-"endeusers":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 841796007f4304be",
+"endeusers":"4295ee8d0ad53c03",
 
 #blockusers
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 96459c9d50502ccf 61e7ed2230e6c0cc 64f27ce70b1751b8 841796007f4304be",
+"noseculist":"4295ee8d0ad53c03",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
-"scrreclist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 841796007f4304be",
+"scrreclist":"4295ee8d0ad53c03",
 
 #ဉာဏ်စမ်း
 "quizlist":"fr33",
 
 #ဧကံသ
-"cat1list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
+"cat1list":"4295ee8d0ad53c03",
 
 #အင်္ဂဝိဇ္ဇာ
-"cat2list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
+"cat2list":"4295ee8d0ad53c03",
 
 #တားရော့
-"cat3list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
+"cat3list":"4295ee8d0ad53c03",
 
 #စိတ်ညှို့ပညာ
-"cat4list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
+"cat4list":"4295ee8d0ad53c03",
 
 #အခြားနှင့် နိမိတ်ပညာ
-"cat5list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
+"cat5list":"4295ee8d0ad53c03",
 
 #ယတြာများ ပွဲတွေ့ဂါထာများ တင်ထားသည်
-"cat6list":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
+"cat6list":"4295ee8d0ad53c03",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
+"mhblist":"4295ee8d0ad53c03",
 
 #compass ကိုနှိပ်ရင်
-"complist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be 64f27ce70b1751b8",
+"complist":"4295ee8d0ad53c03",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"029dd2d2d4c6587f 2b9706220ffbf434 61e7ed2230e6c0cc 96459c9d50502ccf 841796007f4304be",
+"olduserslist":"4295ee8d0ad53c03",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"029dd2d2d4c6587f 2b9706220ffbf434 f6a40f534355d8c7 61e7ed2230e6c0cc 96459c9d50502ccf 64f27ce70b1751b8 841796007f4304be",
+"profnamelist":"4295ee8d0ad53c03",
 
 #IDများနှင့်အမည်များ
 
-"64f27ce70b1751b8":"မကြီးဌေး",
-"029dd2d2d4c6587f":"အတီး",
-"841796007f4304be":"စရာနိုင်_",
+"4295ee8d0ad53c03":"အတီး",
 "61e7ed2230e6c0cc":"စရာနိုင်_Offical",
-"2b9706220ffbf434":"စရာနိုင်",
-"f6a40f534355d8c7":"WEEP",
 "96459c9d50502ccf":"အဲ့"
 
 }
