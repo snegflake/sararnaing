@@ -1,6 +1,6 @@
 #https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxusers
 
-#atee 4295ee8d0ad53c03 61e7ed2230e6c0cc
+#atee 4295ee8d0ad53c03 9d24cf96dd54e058
 {
 
 
@@ -9,72 +9,72 @@
 
 #javaCode users
 
-"javalist":"4295ee8d0ad53c03",
+"javalist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #AdRemoveUserID fr33 ဆို Ad မပြ VIP အနေနဲ့ပြ
 "adremusers":"4295ee8d0ad53c03",
 
 #longclick igwz fr33 ဆို လူတိုင်းရ
-"longPress":"4295ee8d0ad53c03",
+"longPress":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #usertips
-"usertips":"4295ee8d0ad53c03",
+"usertips":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #noclean72hours
-"nocln72hrs":"4295ee8d0ad53c03",
+"nocln72hrs":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #enendeusers
-"endeusers":"4295ee8d0ad53c03",
+"endeusers":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #blockusers
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"4295ee8d0ad53c03",
+"noseculist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
-"scrreclist":"4295ee8d0ad53c03",
+"scrreclist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #ဉာဏ်စမ်း
 "quizlist":"fr33",
 
 #ဧကံသ
-"cat1list":"4295ee8d0ad53c03",
+"cat1list":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #အင်္ဂဝိဇ္ဇာ
-"cat2list":"4295ee8d0ad53c03",
+"cat2list":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #တားရော့
-"cat3list":"4295ee8d0ad53c03",
+"cat3list":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #စိတ်ညှို့ပညာ
-"cat4list":"4295ee8d0ad53c03",
+"cat4list":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #အခြားနှင့် နိမိတ်ပညာ
-"cat5list":"4295ee8d0ad53c03",
+"cat5list":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #ယတြာများ ပွဲတွေ့ဂါထာများ တင်ထားသည်
-"cat6list":"4295ee8d0ad53c03",
+"cat6list":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"4295ee8d0ad53c03",
+"mhblist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #compass ကိုနှိပ်ရင်
-"complist":"4295ee8d0ad53c03",
+"complist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"4295ee8d0ad53c03",
+"olduserslist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"4295ee8d0ad53c03",
+"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #IDများနှင့်အမည်များ
 
 "4295ee8d0ad53c03":"အတီး",
-"61e7ed2230e6c0cc":"စရာနိုင်_Offical",
+"9d24cf96dd54e058":"စရာနိုင်_Offical",
 "96459c9d50502ccf":"အဲ့"
 
 }
