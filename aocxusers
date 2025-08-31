@@ -9,70 +9,71 @@
 
 #javaCode users
 
-"javalist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"javalist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #AdRemoveUserID fr33 ဆို Ad မပြ VIP အနေနဲ့ပြ
-"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #longclick igwz fr33 ဆို လူတိုင်းရ
-"longPress":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"longPress":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #usertips
-"usertips":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"usertips":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #noclean72hours
-"nocln72hrs":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"nocln72hrs":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #enendeusers
-"endeusers":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"endeusers":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #blockusers
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"noseculist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
-"scrreclist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"scrreclist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #ဉာဏ်စမ်း
 "quizlist":"fr33",
 
 #ဧကံသ
-"cat1list":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"cat1list":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #အင်္ဂဝိဇ္ဇာ
-"cat2list":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"cat2list":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #တားရော့
-"cat3list":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"cat3list":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #စိတ်ညှို့ပညာ
-"cat4list":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"cat4list":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #အခြားနှင့် နိမိတ်ပညာ
-"cat5list":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"cat5list":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #ယတြာများ ပွဲတွေ့ဂါထာများ တင်ထားသည်
-"cat6list":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"cat6list":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"mhblist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #compass ကိုနှိပ်ရင်
-"complist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"complist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"olduserslist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #IDများနှင့်အမည်များ
 
+"841796007f4304be":"SNΞGFLAKΞ",
 "4295ee8d0ad53c03":"အတီး",
 "9d24cf96dd54e058":"စရာနိုင်_Offical",
 "96459c9d50502ccf":"အဲ့"
