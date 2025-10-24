@@ -88,9 +88,13 @@
 #"slidertxt3":"“တား‌ရော့”",
 #"notice3":"                    အခြေခံမှစပြီး စနစ်တကျ လေ့လာပါ။ အသေးစိတ် အတိုလေးများ စုစည်းထားသည်။ အလွတ်မကျက်ရပါ။ စိတ်ကူးဖြန့်တွေးပါ။ A.E.WAITE ရဲ့ Deck ကိုစုတုပြု ထားပါသည်။",
 
+#"igwzSliderImage3":"https://i.pinimg.com/736x/6a/eb/1a/6aeb1addf55f1c963d1082b0e0547924.jpg",
+#"slidertxt3":"“သတင်းအမှန်များသာ”",
+#"notice3":"                    သတင်းဆိုတာ ကောလဟာလကို ဆိုလိုခြင်း မဟုတ်ပါ။ သတင်းဆိုတာ လူသားတို့ လက်လှမ်းမမီတာကို သိစေခြင်းကသာ သတင်းဖြစ်သည်။ မှန်းဆချက်များ၊ အတင်းများ၊ ဘက်လိုက်မှုများ မရှိရပါ။",
+
 "igwzSliderImage3":"https://i.pinimg.com/736x/6a/eb/1a/6aeb1addf55f1c963d1082b0e0547924.jpg",
-"slidertxt3":"“သတင်းအမှန်များသာ”",
-"notice3":"                    သတင်းဆိုတာ ကောလဟာလကို ဆိုလိုခြင်း မဟုတ်ပါ။ သတင်းဆိုတာ လူသားတို့ လက်လှမ်းမမီတာကို သိစေခြင်းကသာ သတင်းဖြစ်သည်။ မှန်းဆချက်များ၊ အတင်းများ၊ ဘက်လိုက်မှုများ မရှိရပါ။",
+"slidertxt3":"“ဆရာ‌တော် ဦးဇောတိက”",
+"notice3":"                    ဆရာတော်ကြီးရဲ့ အတွေးပိုင်း စိတ်ချမ်းသာမှုများ ဖြစ်စေရန် ရေးသားထုတ်ဝေသော စာအုပ်ပါ စာများကို ဝေမျှထားခြင်း ဖြစ်ပါသည်။",
 
 "igwzSliderImage4":"https://i.pinimg.com/originals/a3/c8/20/a3c8207084c8a69965a1540763e7d387.gif",
 "slidertxt4":"“စိတ်ညှို့အိပ်‌မွေ့ချ”",
@@ -148,7 +152,10 @@
 #"cate3link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxtr",
 
 #သတင်း
-"cate3link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxnews",
+#"cate3link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxnews",
+
+#ဆရာတော် ဦးဇောတိက
+"cate3link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxsydujtk",
 
 #စိတ်ညှို့
 "cate4link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxhypno",
