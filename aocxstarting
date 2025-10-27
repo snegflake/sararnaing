@@ -32,8 +32,11 @@
 #အင်တာနက် မလို ၁၂ လရာသီ ဟောကိန်း file
 "12Months":"https://www.dropbox.com/scl/fi/6ipu2mi2rv7mfejdnfu1f/akt12la?rlkey=qp05b5oscgxwvk0zt09f4h9ks&st=8d8fh6u7&dl=1",
 
-#offline java file encryption လုပ်ပါ
-"javaJson":"https://www.dropbox.com/scl/fi/u2iayf9bpo54dxwhrqa3t/javacode?rlkey=ozrkf2ddqt0p5mloeh88aqzjv&st=wtz1udj0&dl=1",
+#offline java file encryption လုပ်ပါ usl ကိုပြောင်းထားသည်။
+#"javaJson":"https://www.dropbox.com/scl/fi/u2iayf9bpo54dxwhrqa3t/javacode?rlkey=ozrkf2ddqt0p5mloeh88aqzjv&st=wtz1udj0&dl=1",
+
+#offline usl file encryption လုပ်ပါ
+"uslJson":"https://www.dropbox.com/scl/fi/saiue5m8pud901zeeng0d/usl?rlkey=m27usk9lrrgnpejkws3u1oi8z&st=qgjkbb9l&dl=1",
 
 "quizGame":"https://www.dropbox.com/scl/fi/43q645du42by0pwx77und/quiz?rlkey=tifyg3fuauvqo5kt0xd1uekdf&st=73cw7zc7&dl=1",
 
