@@ -1,62 +1,44 @@
 [
 
 
-{
-"question":"မေးခွန်းလေး", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"မေးခွန်း 8",
 "mp3_link":"",
-"mp3name":"",
-"video_link":""},
+"mp3name":".eight",
+"playme":"._eight"},
 
-{
-"question":"မေးခွန်းလေး", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"မေးခွန်း 7",
 "mp3_link":"",
-"mp3name":"",
-"video_link":""},
+"mp3name":".seven",
+"playme":"._seven"},
 
-{
-"question":"မေးခွန်းသုံး", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"မေးခွန်း 6",
 "mp3_link":"",
-"mp3name":"",
-"video_link":""},
+"mp3name":".six",
+"playme":"._six"},
 
-{
-"question":"မေးခွန်းသုံး", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"မေးခွန်း 5",
 "mp3_link":"",
-"mp3name":"",
-"video_link":""},
+"mp3name":".five",
+"playme":"._five"},
 
-{
-"question":"မေးခွန်းနှစ်", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"မေးခွန်း 4",
 "mp3_link":"",
-"mp3name":"",
-"video_link":""},
+"mp3name":".four",
+"playme":"._four"},
 
-{
-
-"question":"မေးခွန်းနှစ်", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"မေးခွန်း 3",
 "mp3_link":"",
-"mp3name":"three",
-"video_link":""},
+"mp3name":".three",
+"playme":"._three"},
 
-{
-
-"question":"မေးခွန်းတစ်", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"မေးခွန်း 2",
 "mp3_link":"https://www.dropbox.com/scl/fi/w9268jy7ktlqe9z27s36u/funny_popi.mp3?rlkey=3q7b06063s7l4pv5q43093btl&st=kq1u7ee7&dl=1",
-"mp3name":"two",
-"video_link":""},
+"mp3name":".two",
+"playme":"._two"},
 
-{
-"question":"ကာလာမသုတ်ကဘာလဲ", 
-"imglink":"https://i.postimg.cc/brYNSk16/In-Shot-20250522-133618421.jpg",
+{"question":"question 1", 
 "mp3_link":"https://www.dropbox.com/scl/fi/w9268jy7ktlqe9z27s36u/funny_popi.mp3?rlkey=3q7b06063s7l4pv5q43093btl&st=kq1u7ee7&dl=1",
-"mp3name":"one",
-"video_link":""}
+"mp3name":".one",
+"playme":"._one"}
 
 ]
