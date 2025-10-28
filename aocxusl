@@ -1,36 +1,32 @@
 [
 
 
-{"question":"မေးခွန်း 8",
-"mp3_link":"",
-"mp3name":".eight"},
-
 {"question":"မေးခွန်း 7",
 "mp3_link":"",
-"mp3name":".seven"},
+"mp3name":"seven"},
 
 {"question":"မေးခွန်း 6",
 "mp3_link":"",
-"mp3name":".six"},
+"mp3name":"six"},
 
 {"question":"မေးခွန်း 5",
 "mp3_link":"",
-"mp3name":".five"},
+"mp3name":"five"},
 
 {"question":"မေးခွန်း 4",
 "mp3_link":"",
-"mp3name":".four"},
+"mp3name":"four"},
 
 {"question":"မေးခွန်း 3",
 "mp3_link":"https://www.dropbox.com/scl/fi/w0t7t9lnj7go95i2adssp/three?rlkey=7e555m6b5al8yrpdecu6je0z2&st=hse21iyt&dl=1",
-"mp3name":".three"},
+"mp3name":"three"},
 
 {"question":"မေးခွန်း 2",
 "mp3_link":"https://www.dropbox.com/scl/fi/jz8v5p2ina4z9oc07izdh/two?rlkey=et7kzqs1hgbjjeyvpdwmrr465&st=d1plwc0b&dl=1",
-"mp3name":".two"},
+"mp3name":"two"},
 
 {"question":"question 1", 
 "mp3_link":"https://www.dropbox.com/scl/fi/py6mwbbp54roofhljwvyw/one?rlkey=bkpnp246mz3f6qw09g9j4kd45&st=vue008dv&dl=1",
-"mp3name":".one"}
+"mp3name":"one"}
 
 ]
