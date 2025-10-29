@@ -1,32 +1,54 @@
+#{"question":"",
+#"mp3_link":"",
+#"mp3name":""},
+
 [
-
-
-{"question":"မေးခွန်း 7",
+{"question":"နွားကျောင်းသားနှင့် နွားပိုင်ရှင် ?",
 "mp3_link":"",
-"mp3name":"seven"},
+"mp3name":"012"},
 
-{"question":"မေးခွန်း 6",
+{"question":"ပဋိစ္စသမုပ္ပါဒ်မှာ ဒဌိဖြုတ်နည်း ပါ ပါသလား ?",
 "mp3_link":"",
-"mp3name":"six"},
+"mp3name":"011"},
 
-{"question":"မေးခွန်း 5",
+{"question":"စိတ်နဲ့ ပက်သက်တဲ့ တိကျတဲ့ စာအုပ်ရှိပါသလား ?",
 "mp3_link":"",
-"mp3name":"five"},
+"mp3name":"010"},
 
-{"question":"ဝိုင်းစုခိုင်သိန်း",
+{"question":"တရားထိုင်ရင် ထိုင်ပြီးထိုင်ရသလား ?",
 "mp3_link":"",
-"mp3name":"four"},
+"mp3name":"009"},
 
-{"question":"မေးခွန်း 3",
-"mp3_link":"https://www.dropbox.com/scl/fi/w0t7t9lnj7go95i2adssp/three?rlkey=7e555m6b5al8yrpdecu6je0z2&st=hse21iyt&dl=1",
-"mp3name":"three"},
+{"question":"ကိုဗစ်ကာကွယ်ဆေးကို ရဟန္ဏ္ဍာတွေ ထိုးဖို့လိုသလား ?",
+"mp3_link":"",
+"mp3name":"008"},
 
-{"question":"မေးခွန်း 2",
-"mp3_link":"https://www.dropbox.com/scl/fi/jz8v5p2ina4z9oc07izdh/two?rlkey=et7kzqs1hgbjjeyvpdwmrr465&st=d1plwc0b&dl=1",
-"mp3name":"two"},
+{"question":"ပွင့်ခဲ့သော ဘုရားရှင်တွေလက်ထက်မှာ သံဃာရတနာတင်ပါသလား ?",
+"mp3_link":"",
+"mp3name":"007"},
 
-{"question":"question 1https://www.dropbox.com/scl/fi/py6mwbbp54roofhljwvyw/one?rlkey=bkpnp246mz3f6qw09g9j4kd45&st=mzxur259&dl=0", 
-"mp3_link":"https://www.dropbox.com/scl/fi/py6mwbbp54roofhljwvyw/one?rlkey=bkpnp246mz3f6qw09g9j4kd45&st=mzxur259&dl=1",
-"mp3name":"one"}
+{"question":"သင်္ကန်း သုံးစုံ ရှိမှ ဘုန်းကြီးဝတ်ရတာလား ?",
+"mp3_link":"",
+"mp3name":"006"},
+
+{"question":"ကွယ်လွန်သွားသူများကို ဆုတောင်းပေးရင် အကျိုးရနိုင်လား ? ",
+"mp3_link":"",
+"mp3name":"005"},
+
+{"question":"ပညတ်၊ ပရမတ် အမြင် ဆိုတာဘာလဲ ?",
+"mp3_link":"",
+"mp3name":"004"},
+
+{"question":"ယောဂီဝတ်စုံ ဝတ်ရင် ဆယ်ပါးသီလ ထိန်းသင့်သလား ?",
+"mp3_link":"",
+"mp3name":"003"},
+
+{"question":"မိထွေးတော် ဂေါတမီက အနတ္တဂိုဏ်းဝင် ဖြစ်ပါသလား ?",
+"mp3_link":"",
+"mp3name":"002"},
+
+{"question":"ကန်တော့ခြင်းနဲ့ ကန်တော့ထိုက်တာ ဘယ်လိုကွာလဲ ?", 
+"mp3_link":"",
+"mp3name":"001"}
 
 ]
