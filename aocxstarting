@@ -1,9 +1,18 @@
 {
 
 #bmp အနေနဲ့ linear background ထည့်ဖို့ပုံ
-"lightbgimg":"https://i.pinimg.com/736x/7a/01/c3/7a01c3cda51590f5238cfe8671725ad0.jpg",
+"usllightbg":"https://i.pinimg.com/736x/7a/01/c3/7a01c3cda51590f5238cfe8671725ad0.jpg",
 
-"darkbgimg":"",
+"usldarkbg":"",
+
+"quizlightbg":"",
+
+"quizdarkbg":"",
+
+"mhblightbg":"",
+
+"mhbdarkbg":"",
+
 
 "uslabout":"- အသံဖိုင်များကို အင်တာနက်ဖွင့်ပြီး ယူရမည်။
 - ကျော်လို့မရပါ။ နားလည်စေချင်လို့ အစအဆုံး နားထောင်ရပါမည်။
