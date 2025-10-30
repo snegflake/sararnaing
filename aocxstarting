@@ -1,17 +1,18 @@
 {
 
 #bmp အနေနဲ့ linear background ထည့်ဖို့ပုံ 512×512
-"usllightbg":"",
 
-"usldarkbg":"https://i.pinimg.com/736x/bd/58/87/bd58871ee443433594f36fb8d31db492.jpg",
+"usllightbg":"https://i.pinimg.com/736x/aa/bc/56/aabc5686d4f65068d8c0045b7a0de4ac.jpg",
 
-"quizlightbg":"",
+"usldarkbg":"https://i.pinimg.com/736x/b3/da/6e/b3da6ed244644313dd03d047d1832c24.jpg",
 
-"quizdarkbg":"https://i.pinimg.com/736x/bd/58/87/bd58871ee443433594f36fb8d31db492.jpg",
+"quizlightbg":"https://i.pinimg.com/736x/aa/bc/56/aabc5686d4f65068d8c0045b7a0de4ac.jpg",
 
-"mhblightbg":"",
+"quizdarkbg":"https://i.pinimg.com/736x/b3/da/6e/b3da6ed244644313dd03d047d1832c24.jpg",
 
-"mhbdarkbg":"https://i.pinimg.com/736x/bd/58/87/bd58871ee443433594f36fb8d31db492.jpg",
+"mhblightbg":"https://i.pinimg.com/736x/aa/bc/56/aabc5686d4f65068d8c0045b7a0de4ac.jpg",
+
+"mhbdarkbg":"https://i.pinimg.com/736x/b3/da/6e/b3da6ed244644313dd03d047d1832c24.jpg",
 
 
 "uslabout":"- အသံဖိုင်များကို အင်တာနက်ဖွင့်ပြီး ယူရမည်။
