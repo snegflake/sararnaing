@@ -4,87 +4,108 @@
 
 [
 
-{"question":"နိဗ္ဗာန်ရဖို့ အကျင့်နှင့် အသိ ဘယ်ဟာ အရေးကြီးလဲ ?",
+{"cate":"ဦးဆန်းလင်း",
+"question":"နိဗ္ဗာန်ရဖို့ အကျင့်နှင့် အသိ ဘယ်ဟာ အရေးကြီးလဲ ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/tc0g4l765sqcyaeogdw3d/021.mp3?rlkey=27mmsciphc6qwb4j0vo3l4p85&st=8lswvdle&dl=1",
 "mp3name":"021"},
 
-{"question":"ခန္ဓာကို လှူပြီး တရားအားထုတ်သင့်လား ?",
+{"cate":"ဦးဆန်းလင်း",
+"question":"ခန္ဓာကို လှူပြီး တရားအားထုတ်သင့်လား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/y06m39i39tiqzasb2fzgo/020.mp3?rlkey=eeaklq5m3g0j38x0illfd3upf&st=m4ko4ti7&dl=1",
 "mp3name":"020"},
 
-{"question":"ဖုန်းလှိုင်းတွေလို ရုပ်နာမ် သဘောတူပါသလား ?",
+{"cate":"ဦးဆန်းလင်း",
+"question":"ဖုန်းလှိုင်းတွေလို ရုပ်နာမ် သဘောတူပါသလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/fdvjo3fftvdvxv3e2pvb2/019.mp3?rlkey=7yyno9l91zf20rn12s8zu0tfb&st=s28epl8h&dl=1",
 "mp3name":"019"},
 
-{"question":"တရားအားထုတ်သူတွေ ဘယ်လမ်းစဉ်ကို လိုက်ရမလဲ ?",
+{"cate":"3",
+"question":"တရားအားထုတ်သူတွေ ဘယ်လမ်းစဉ်ကို လိုက်ရမလဲ ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/xdm6ge34c8mehp4mm3bnr/018.mp3?rlkey=2srh59p1kq163hcx0vzdgnd4v&st=pdbs6vwa&dl=1",
 "mp3name":"018"},
 
-{"question":"ဆုတောင်းနဲ့ လုပ်ရပ် ဘယ်ဟာမြတ်လဲ ?",
+{"cate":"3",
+"question":"ဆုတောင်းနဲ့ လုပ်ရပ် ဘယ်ဟာမြတ်လဲ ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/xrk6yazfis0fzy663gmcl/017.mp3?rlkey=wvq78z831ggtso8ruitv40os5&st=j3kbvt8c&dl=1",
 "mp3name":"017"},
 
-{"question":"စိတ်, ဝီထိ ဘယ်မှာ လေ့လာရမလဲ ?",
+{"cate":"3",
+"question":"စိတ်, ဝီထိ ဘယ်မှာ လေ့လာရမလဲ ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/e4w59p0ingvw5r81ch3ux/016.mp3?rlkey=cclp8pe2xdaa99fv52fcd7mfs&st=ehshsevi&dl=1",
 "mp3name":"016"},
 
-{"question":"ကဆုန်လပြည့်နှင့် ဘာသာရေးလပြည့်များ အဓိပ္ပါယ်",
+{"cate":"3",
+"question":"ကဆုန်လပြည့်နှင့် ဘာသာရေးလပြည့်များ အဓိပ္ပါယ်",
 "mp3_link":"https://www.dropbox.com/scl/fi/5fwzkrv5kwn7i137ivfwh/015.mp3?rlkey=5x0vluujbi6r7tyzrjqvlswwy&st=53jokcdo&dl=1",
 "mp3name":"015"},
 
-{"question":"ဘုရားလောင်း ကြွေးကြော်သံတွေက အမျိုးမျိုး နာယူရတယ်။ ဘယ်ဟာ အမှန်လဲ ?",
+{"cate":"2",
+"question":"ဘုရားလောင်း ကြွေးကြော်သံတွေက အမျိုးမျိုး နာယူရတယ်။ ဘယ်ဟာ အမှန်လဲ ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/g594kgb0z6eg0mvo4fjbk/014.mp3?rlkey=v7tyx0h568up68ra3fkumf6o1&st=68u3nraz&dl=1",
 "mp3name":"014"},
 
-{"question":"လောကဥပဒေအစား ဘုရားရှင်ဥပဒေနဲ့သာဆို အုပ်ချုပ်လို့ရနိုင်လား ?",
+{"cate":"2",
+"question":"လောကဥပဒေအစား ဘုရားရှင်ဥပဒေနဲ့သာဆို အုပ်ချုပ်လို့ရနိုင်လား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/70u8rlql2nb834sqwvpk2/013.mp3?rlkey=16so1emvxjsq1y5fjblnfmp1x&st=wa5chmpr&dl=1",
 "mp3name":"013"},
 
-{"question":"နွားကျောင်းသားနှင့် နွားပိုင်ရှင် ?",
+{"cate":"2",
+"question":"နွားကျောင်းသားနှင့် နွားပိုင်ရှင် ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/djlxl5m8odl8pltbwh8bx/012.mp3?rlkey=6cgry9tyspwoz3xjkus3j5zvy&st=e5uf19gy&dl=1",
 "mp3name":"012"},
 
-{"question":"ပဋိစ္စသမုပ္ပါဒ်မှာ ဒိဌိဖြုတ်နည်း ပါ ပါသလား ?",
+{"cate":"2",
+"question":"ပဋိစ္စသမုပ္ပါဒ်မှာ ဒိဌိဖြုတ်နည်း ပါ ပါသလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/nyo7jv4v5k2nua7wwcvfr/011.mp3?rlkey=mj3e029bldzb0cbwhow3j82cx&st=bq0d35nz&dl=1",
 "mp3name":"011"},
 
-{"question":"စိတ်နဲ့ ပက်သက်တဲ့ တိကျတဲ့စာအုပ်ရှိပါသလား ?",
+{"cate":"2",
+"question":"စိတ်နဲ့ ပက်သက်တဲ့ တိကျတဲ့စာအုပ်ရှိပါသလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/cjhzr6u6s4mbiuv7xlm50/010.mp3?rlkey=54c017vb5zbfh5jcwf3yyo5fe&st=j8aeqewj&dl=1",
 "mp3name":"010"},
 
-{"question":"တရားထိုင်ရင် ထိုင်ပြီးထိုင်ရသလား ?",
+{"cate":"2",
+"question":"တရားထိုင်ရင် ထိုင်ပြီးထိုင်ရသလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/ys7s9x4niywkj91u3wlpw/009.mp3?rlkey=oa1uzfqfkuhi3vaoxxkgm8v1j&st=0s3ywtf7&dl=1",
 "mp3name":"009"},
 
-{"question":"ကိုဗစ်ကာကွယ်ဆေးကို ရဟန္တာဖြစ်သူတွေ ထိုးဖို့လိုသလား ?",
+{"cate":"2",
+"question":"ကိုဗစ်ကာကွယ်ဆေးကို ရဟန္တာဖြစ်သူတွေ ထိုးဖို့လိုသလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/o2usk188mlo6xvsbxinsb/008.mp3?rlkey=p8l3k9e2vw6eosrgnou4qlqyf&st=cv3ylr7o&dl=1",
 "mp3name":"008"},
 
-{"question":"ပွင့်ခဲ့သော ဘုရားရှင်တွေလက်ထက်မှာ သံဃာရတနာတင်ပါသလား ?",
+{"cate":"1",
+"question":"ပွင့်ခဲ့သော ဘုရားရှင်တွေလက်ထက်မှာ သံဃာရတနာတင်ပါသလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/x86vizr63f95oxpwz8yab/007.mp3?rlkey=wwo75l8bvmjc371byffxqll8g&st=bn1ondtv&dl=1",
 "mp3name":"007"},
 
-{"question":"သင်္ကန်း သုံးစုံရှိမှ ဘုန်းကြီးဝတ်ရတာလား ?",
+{"cate":"1",
+"question":"သင်္ကန်း သုံးစုံရှိမှ ဘုန်းကြီးဝတ်ရတာလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/v04fguxw9nn8g5agylc9t/006.mp3?rlkey=fj9bh2q3ylq6771dnb4w20d3g&st=banvpnst&dl=1",
 "mp3name":"006"},
 
-{"question":"ကွယ်လွန်သွားသူများကို ဆုတောင်းပေးရင် အကျိုးရနိုင်လား ? ",
+{"cate":"1",
+"question":"ကွယ်လွန်သွားသူများကို ဆုတောင်းပေးရင် အကျိုးရနိုင်လား ? ",
 "mp3_link":"https://www.dropbox.com/scl/fi/wz75uidjp4inhxhu9d67e/005.mp3?rlkey=hg0pk1pihi5vlofn8dnsx3a8k&st=r2v7j7c2&dl=1",
 "mp3name":"005"},
 
-{"question":"ပညတ်၊ ပရမတ် အမြင် ဆိုတာဘာလဲ ?",
+{"cate":"1",
+"question":"ပညတ်၊ ပရမတ် အမြင် ဆိုတာဘာလဲ ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/ntq9o640z7t8sf5zcuebd/004.mp3?rlkey=puf0jg377aurvzuw14i85qhtl&st=w4zdc8r1&dl=1",
 "mp3name":"004"},
 
-{"question":"ယောဂီဝတ်စုံ ဝတ်ရင် ဆယ်ပါးသီလ ထိန်းသင့်သလား ?",
+{"cate":"1",
+"question":"ယောဂီဝတ်စုံ ဝတ်ရင် ဆယ်ပါးသီလ ထိန်းသင့်သလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/d9yz6fxe3td196dte2lwc/003.mp3?rlkey=lee90gjn7c3i3jqglaxqej6rf&st=14686ugl&dl=1",
 "mp3name":"003"},
 
-{"question":"မိထွေးတော် ဂေါတမီက အနတ္တဂိုဏ်းဝင် ဖြစ်ပါသလား ?",
+{"cate":"1",
+"question":"မိထွေးတော် ဂေါတမီက အနတ္တဂိုဏ်းဝင် ဖြစ်ပါသလား ?",
 "mp3_link":"https://www.dropbox.com/scl/fi/axq2lizbldtxpad58720f/002.mp3?rlkey=9j1n9mump7vb9xzmhfajfpfwp&st=l77h45mp&dl=1",
 "mp3name":"002"},
 
-{"question":"ကန်တော့ခြင်းနဲ့ ကန်တော့ထိုက်တာ ဘယ်လိုကွာလဲ ?", 
+{"cate":"1",
+"question":"ကန်တော့ခြင်းနဲ့ ကန်တော့ထိုက်တာ ဘယ်လိုကွာလဲ ?", 
 "mp3_link":"https://www.dropbox.com/scl/fi/vt9jfpee2unmwy5xwxp29/001.mp3?rlkey=mig3ien7axp7ch0vj1qx587zd&st=02bocjur&dl=1",
 "mp3name":"001"}
 
