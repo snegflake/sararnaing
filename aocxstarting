@@ -2,6 +2,32 @@
 
 
 
+#bmp အနေနဲ့ linear background ပုံထည့်ဖို့
+
+"usllightbg":"https://i.pinimg.com/474x/1e/79/16/1e791669e78b84252b75638b60d379c0.jpg",
+
+"usldarkbg":"https://i.pinimg.com/736x/53/e3/1c/53e31cd22b19b190df519fd1b0aecd4b.jpg",
+
+"quizlightbg":"https://i.pinimg.com/474x/1e/79/16/1e791669e78b84252b75638b60d379c0.jpg",
+
+"quizdarkbg":"https://i.pinimg.com/736x/53/e3/1c/53e31cd22b19b190df519fd1b0aecd4b.jpg",
+
+"mhblightbg":"https://i.pinimg.com/474x/1e/79/16/1e791669e78b84252b75638b60d379c0.jpg",
+
+"mhbdarkbg":"https://i.pinimg.com/736x/53/e3/1c/53e31cd22b19b190df519fd1b0aecd4b.jpg",
+
+"igwzlightbg":"",
+
+"igwzdatkbg":"",
+
+"drawerlightbg":"",
+
+"drawerdarkbg":"",
+
+"dialoglightbg":"",
+
+"dialogdarkbg":"",
+
 "uslabout":"- အသံဖိုင်များကို အင်တာနက်ဖွင့်ပြီး ယူရမည်။
 - ကျော်လို့မရပါ။ နားလည်စေချင်လို့ အစအဆုံး နားထောင်ရပါမည်။
 - ခေါင်းစဉ်များသာ ရှာရပါမည်။
