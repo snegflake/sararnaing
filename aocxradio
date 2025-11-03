@@ -47,62 +47,7 @@
 
 "tayarVideo6":"https://www.dropbox.com/scl/fi/44n8v9x1gj1bku7uatwxq/Kinpwankyi.mp4?rlkey=c189l0a7qmhulyipc5c0osylv&st=pfhqv7b1&dl=1",
 
-"tayarVideo7":"",
-
-#တစ်ခုစာ ပြီး၏။
-
-#နားဆင်စရာအမည်ပြခြင်း
-"narcinName1":"စာရေးဆရာ နန္ဒသိန်းဇံ",
-"narcinName2":"uploading",
-"narcinName3":"uploading",
-"narcinName4":"uploading",
-"narcinName5":"uploading",
-"narcinName6":"uploading",
-"narcinName7":"uploading",
-
-#narcinType အမျိုးအစား ထည့်ရန်
-
-"narcin1Type":"mp3",
-"narcin2Type":"mp3",
-"narcin3Type":"mp4",
-"narcin4Type":"mp3",
-"narcin5Type":"mp3",
-"narcin6Type":"mp3",
-"narcin7Type":"",
-
-#mp3 ဖြစ်နေရင် thumb image link ထည့်ရန်။
-
-"narcinBmp1":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
-
-"narcinBmp2":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
-
-"narcinBmp3":"",
-
-"narcinBmp4":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
-
-"narcinBmp5":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
-
-"narcinBmp6":"https://www.dropbox.com/scl/fi/aeqe6fbwz4g0v3ydgglcv/dnemp3tag.gif?rlkey=3wp7fzmaseohqh2t19obod9bx&st=3a6ak85d&dl=1",
-
-"narcinBmp7":"",
-
-#encrypt လုပ်ပြီးတင်။
-
-"narcinVideo1":"https://www.dropbox.com/scl/fi/snjp4w79mnh0xq1rule8d/.narcin1?rlkey=0098skoldi0l98bv29br8a6c2&st=os4h1wyu&dl=1",
-
-"narcinVideo2":"",
-
-"narcinVideo3":"",
-
-"narcinVideo4":"",
-
-"narcinVideo5":"",
-
-"narcinVideo6":"",
-
-"narcinVideo7":""
-
-#နားဆင်ပြီး၏။
+"tayarVideo7":""
 
 
 }
