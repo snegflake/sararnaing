@@ -9,6 +9,9 @@
 #aocxusl က image ကို ဒီမှာ ထည့်ထားသည်။
 "imagelink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocximages",
 
+#oacxusl ထဲက cate ရဲ့ value တွေ ထည့်ထား
+"imglink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocximages",
+
 #ဦးဆန်းလင်းသို့ ပြောင်းထား
 "javacodelink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxjava",
 
