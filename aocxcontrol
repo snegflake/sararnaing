@@ -83,9 +83,13 @@
 #"slidertxt1":"“ဧကံသဗျာကရဏ”",
 #"notice1":"                    ဆရာကြီး မင်းသိင်္ခ၏ကျမ်းစာအုပ် တစ်အုပ်လုံးနှင့် ကျင့်စဉ်များကို မှတ်တမ်းတင်ထားခြင်းဖြစ်သည်။",
 
-"igwzSliderImage1":"https://i.pinimg.com/736x/cd/60/13/cd6013b13bf5fdbb921456c23b46475c.jpg",
-"slidertxt1":"“ခေတ်ပြောင်းကျန်းမာရေး”",
-"notice1":"                    နေမှု၊ ထိုင်မှု၊ စားမှုတွေ ပြောင်းလာမှုကြောင့် ကျန်းမာရေး အသိပညာများကို လိုက်လျောညီထွေ စုစည်းထားပါသည်။",
+#"igwzSliderImage1":"https://i.pinimg.com/736x/cd/60/13/cd6013b13bf5fdbb921456c23b46475c.jpg",
+#"slidertxt1":"“ခေတ်ပြောင်းကျန်းမာရေး”",
+#"notice1":"                    နေမှု၊ ထိုင်မှု၊ စားမှုတွေ ပြောင်းလာမှုကြောင့် ကျန်းမာရေး အသိပညာများကို လိုက်လျောညီထွေ စုစည်းထားပါသည်။",
+
+"igwzSliderImage1":"https://i.pinimg.com/736x/e5/d5/c2/e5d5c257dadeaa5c348575461424fbae.jpg",
+"slidertxt1":"“အရှင်သေဌိလ (အရှင်သစ်ထိလ)”",
+"notice1":"                    ဗုဒ္ဓဘာသာကို ကမ္ဘာက သိအောင် ပင်ပန်းဆင်ရဲခံကာ ပြန့်ပွားစေခဲ့တဲ့ အဘိဓမ္မာများ၊ ဗုဒ္ဓဘာသာဆိုတာ ဘာလဲ စတဲ့ အဆီအနှစ်များကို စုဆောင်းထားပါသည်",
 
 "igwzSliderImage2":"https://i.pinimg.com/736x/a9/29/82/a92982615d50230c90e46056c6a89c54.jpg",
 "slidertxt2":"“အင်္ဂဝဇ္ဇာ”",
@@ -150,7 +154,10 @@
 #"cate1link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxakt",
 
 #ကျမ္မာရေး
-"cate1link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxkyanmar",
+#"cate1link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxkyanmar",
+
+#အရှင်သေဌိလ
+"cate1link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxashinttl",
 
 #အင်္ဂဝိဇ္ဇာပညာ
 "cate2link":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxigwz",
