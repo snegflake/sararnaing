@@ -2,29 +2,6 @@
 [
 
 
-#12
-
-{"cate":"12",
-"catename":"စုံတကာ ဗဟုသုတများ",
-"question":"ဦးအောင်သင်း ကိုယ်ကျင့်တရားဆိုတာ",
-"size":"အင်တာနက် 33 MB",
-"mp3_link":"https://drive.usercontent.google.com/download?id=1eyVEP4RWcZPuqgWjGhpysOPqBQuiuH_P&export=download",
-"mp3name":"1203"},
-
-{"cate":"12",
-"catename":"စုံတကာ ဗဟုသုတများ",
-"question":"စာရေးဆရာ နန္ဒသိန်းဇံ (၂)",
-"size":"အင်တာနက် 35 MB",
-"mp3_link":"https://drive.usercontent.google.com/download?id=1hZaFTbDXm9tnF3reOrOzxY2PHj00jVcB&export=download",
-"mp3name":"1202"},
-
-{"cate":"12",
-"catename":"စုံတကာ ဗဟုသုတများ",
-"question":"စာရေးဆရာ နန္ဒသိန်းဇံ (၁)",
-"size":"အင်တာနက် 34 MB",
-"mp3_link":"https://drive.usercontent.google.com/download?id=1VwAYV2fSUEis5kplPFBMpqJsxJtjtctu&export=download",
-"mp3name":"1201"},
-
 #11
 
 {"cate":"11",
@@ -1183,10 +1160,24 @@
 #4
 
 {"cate":"4",
-"catename":"လာမည် ကြာမည်",
-"question":"စဉ်းစားနေဆဲ..",
-"size":"အင်တာနက် 0 MB",
-"mp3_link":"",
+"catename":"လူစုံ ဗဟုသုတများ",
+"question":"ဦးအောင်သင်း ကိုယ်ကျင့်တရားဆိုတာ",
+"size":"အင်တာနက် 33 MB",
+"mp3_link":"https://drive.usercontent.google.com/download?id=1eyVEP4RWcZPuqgWjGhpysOPqBQuiuH_P&export=download",
+"mp3name":"403"},
+
+{"cate":"4",
+"catename":"လူစုံ ဗဟုသုတများ",
+"question":"စာရေးဆရာ နန္ဒသိန်းဇံ (၂)",
+"size":"အင်တာနက် 35 MB",
+"mp3_link":"https://drive.usercontent.google.com/download?id=1hZaFTbDXm9tnF3reOrOzxY2PHj00jVcB&export=download",
+"mp3name":"402"},
+
+{"cate":"4",
+"catename":"လူစုံ ဗဟုသုတများ",
+"question":"စာရေးဆရာ နန္ဒသိန်းဇံ (၁)",
+"size":"အင်တာနက် 34 MB",
+"mp3_link":"https://drive.usercontent.google.com/download?id=1VwAYV2fSUEis5kplPFBMpqJsxJtjtctu&export=download",
 "mp3name":"401"},
 
 #3
@@ -1311,7 +1302,6 @@
 "size":"အင်တာနက် 22 MB",
 "mp3_link":"https://drive.usercontent.google.com/download?id=1oS810zG54X6PVytZ-wAciUjbt7Xwh-4V&export=download",
 "mp3name":"209"},
-
 
 {"cate":"2",
 "catename":"ဒေါက်တာ ဒေါ်ခင်နွယ်ဝင်း",
