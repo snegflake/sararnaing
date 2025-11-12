@@ -1,0 +1,166 @@
+{
+
+"startnoti":"
+
+အကြံပေးတိုက်တွန်းချက်များ (သို့) အသုံးပြုသူ မိတ်ဆွေကို အသိပေးခြင်း။
+
+
+ဒီဆော့ဝဲ ဖန်တီးထားသည့် ရည်ရွယ်ချက်များကို သဘောတူသည်ဟု ယူဆပါသည်။ အကြောင်းက မိတ်ဆွေ လက်သင့်မခံနိုင်သည့် အကြောင်းများစွာ ပါဝင်နိုင်ပါသည်။ ထို့အတူ အော်ကလီဆန်ခြင်းနှင့် ဇဝေဇဝါ ဖြစ်ခြင်းများလည်း ပါဝင်နိုင်ပါသည်။ ဘာသာရေးအသိ ရှုထောင့် အသစ်များလည်း ပါဝင်နေပါသည်။ လူမှုရေးအမြင်မတူ နိုင်သည်များလည်း ပါဝင်နိုင်ပါသည်။ ကျန်းမာရေး ရှုထောင့်များလည်း ပါဝင်ပါသည်။ ရှားပါးဆောင်းပါးများနှင့် ဗေဒင်ပညာရပ်များ ပါဝင်သည်။ အသုံးပြုသူ မိတ်ဆွေ စိတ်ရွေးကျ သုံးနိုင်ခွင့်ရရန် ခွင့်ပြုချက် ရယူခြင်းများ ပါရှိပါသည်။
+
+
+တခြား ဆော့ဝဲလ်တွေလို ကြော်ငြာပြခြင်းမျိုး မပါဝင်ပါဘူး။ သို့သော် ပြချင်သော အရာများကို ပြသောစနစ် ပါဝင်ပါသည်။ အပြည့်အဝ သုံးစွဲဖို့အတွက် ခွင့်ပြုချက်ကို ပိုက်ဆံကုန်စရာ မလိုအပ်ပါ။
+
+
+ယခု စာသားများသည် အသုံးပြုသူများရဲ့ အခြေအနေပေါ်မူတည်ပြီး ပြောင်းလဲနေမည် ဖြစ်ပါသည်။ အသုံးပြုသူသည် စိတ်မရှည်နိုင်ခြင်းများ ပါဝင်နိုင်ပါသည်။ အသုံးမဝင်ပါဘူးလို့ ထင်ကောင်း ထင်စရာလည်း ဖြစ်နိုင်ပါသည်။
+
+
+သတိပြုရမည်မှာ ပညာခန်းများနှင့် အရံသင့် စားသုံးရန်အတွက် ဖန်တီးထားခြင်း မဟုတ်တာကို လက်ခံရပါမည်။ သို့သော် စိတ်ဝင်တစားနှင့် ဝါသနာပါသူများအတွက် လေ့ကျင့်မည်ဆိုပါက တချို့သော ပညာများသည် တကယ်တက်မြောက် နိုင်သည့်အထိလည်း ပါဝင်ပါသည်။
+
+
+ဒီထက်မက အဆင့်မြင့်သော၊ ရှားပါးသော ဗဟုသုတများလည်း ရသလို ထည့်သွင်း ပေးနေပါသည်။ မိတ်ဆွေအတွက် အထူး အလေးထား သတိပေးနေရခြင်းအတွက် တောင်းပန်အပ်ပါသည်။
+
+
+အနှစ်ချုပ်ရသော် မိတ်ဆွေ၏ မူလဘူတ လက်ခံထားတဲ့ အသိပညာများနှင့် အံဝင်ဂွင်ကျ ဖြစ်အောင်ဖန်တီးထားခြင်း မဟုတ်ပါသဖြင့် ဒီစာများကို ဆော့ဝဲလ် ဖွင့်တိုင်းမှာ မြင်နေရခြင်းမျိုး ဖြစ်ပါသည်။
+
+
+အထက်ပါ အကြောင်းအရာများကို အသုံးပြုသူ မိတ်ဆွေ လက်ခံသဘောတူသည် ဆိုပါက ဆက်လက် အသုံးပြုပေးပါရန် အသိပေးအပ်ပါသည်။
+
+",
+
+#bmp အနေနဲ့ linear background ပုံထည့်ဖို့
+"usllightbg":"https://i.pinimg.com/736x/ad/ac/80/adac80adfa4f364d39d3e6a2444741d0.jpg",
+
+"usldarkbg":"https://i.pinimg.com/474x/02/79/06/027906ad68bc763b88794c76ae3676b3.jpg",
+
+"quizlightbg":"https://i.pinimg.com/736x/ad/ac/80/adac80adfa4f364d39d3e6a2444741d0.jpg",
+
+"quizdarkbg":"https://i.pinimg.com/474x/02/79/06/027906ad68bc763b88794c76ae3676b3.jpg",
+
+"mhblightbg":"https://i.pinimg.com/736x/ad/ac/80/adac80adfa4f364d39d3e6a2444741d0.jpg",
+
+"mhbdarkbg":"https://i.pinimg.com/474x/02/79/06/027906ad68bc763b88794c76ae3676b3.jpg",
+
+"igwzlightbg":"https://i.pinimg.com/736x/ad/ac/80/adac80adfa4f364d39d3e6a2444741d0.jpg",
+
+"igwzdarkbg":"https://i.pinimg.com/474x/02/79/06/027906ad68bc763b88794c76ae3676b3.jpg",
+
+"drawerlightbg":"https://i.pinimg.com/736x/ad/ac/80/adac80adfa4f364d39d3e6a2444741d0.jpg",
+
+"drawerdarkbg":"https://i.pinimg.com/474x/02/79/06/027906ad68bc763b88794c76ae3676b3.jpg",
+
+"dialoglightbg":"https://i.pinimg.com/736x/ad/ac/80/adac80adfa4f364d39d3e6a2444741d0.jpg",
+
+"dialogdarkbg":"https://i.pinimg.com/474x/02/79/06/027906ad68bc763b88794c76ae3676b3.jpg",
+
+"uslabout":"- အသံဖိုင်များကို အင်တာနက်ဖွင့်ပြီး ယူရမည်။
+- မူရင်းဟောပြောသူများကို ကျေးဇူးတင်ပေးပါ။
+- ကျော်လို့မရပါ အစအဆုံး နားထောင်ရပါမည်။
+- ခေါင်းစဉ်များသာ ရှာလို့ ရပါမည်။
+- ခေါင်းစဉ်များ မမြင်ရပါက နှိပ်လိုက်ပါ။
+- အသံဖိုင် တစ်ပုဒ်ချင်းသာ ဖွင့်နိုင်ပါမည်။
+- ထွက်လိုက်ပါက အစ က ပြန်စပါမည်။
+- အင်တာနက်ပေါများပါက အွန်လိုင်းမှာ များပြားစွာ ရှာဖွေပြီး\nဆက်လက် နားဆင်နိုင်ပါသည်။
+- နားဆင်သင့်သည် များသာ ဝေမျှထားပါသည်။
+- ဘာသာရေး၊ လူမှုရေး၊ နိုင်ငံ့အရေး ထိခိုက်သော\nမည်သည့်အရာမှ မဝေမျှပါ။
+- လမ်းပြတစ်ဦး အနေနဲ့ ဝေမျှထားပါသည်။
+- စိတ်ကို ဖွင့်ပြီး နား‌ဆင်ပါ။\nအစွန်းမထွက် ခရီးဆက်နိုင်ရန်\nမျှဝေထားပါသည်။
+- မထင်သော အရာများ လက်ခံနိုင်မှ နားဆင်ပါ။
+- ဖိုင်များ ရယူပြီးပါက အင်တာနက် မလိုတော့ပါ။",
+
+"weareMM":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download",
+
+"weareMMAbout":"“ မြန်မာနိုင်ငံတော်ကို မြန်မာနိုင်ငံမှာ မွေးဖွားသူတိုင်း ချစ်မြတ်နိုးရမည်မှာ မြန်မာလူမျိုးတိုင်း တာဝန်ဖြစ်ပါသည်။ အဆုံးထိအောင် နားထောင်ရပါမည်။ အလေးပြုရမည်။ ”",
+
+#"cat1Offl":"https://www.dropbox.com/scl/fi/3xn1y7arvbmlup8jq32uh/?rlkey=39ix0yn9du77wolnmi4wm29l2&st=xdjs47sz&dl=1",
+
+#အရှင်သေဌိလ
+"cat1Offl":"",
+
+"cat2Offl":"https://www.dropbox.com/scl/fi/bvf64kgm2562zjronsjbw/?rlkey=5hkbbahfeooeg3le0u9wxpcl3&st=l8c9knh3&dl=1",
+
+#"cat3Offl":"https://www.dropbox.com/scl/fi/pfbwtbil4pjagoor5bhs2/?rlkey=9y7vzt48rkecggjtpjc3e0lcl&st=ivh4t48c&dl=1",
+
+"cat3Offl":"https://www.dropbox.com/scl/fi/50poejfx04zgknrz3pn8k/?rlkey=sxgj6jsy60mwm3r8lv984rt86&st=vtv1a3of&dl=1",
+
+"cat4Offl":"https://www.dropbox.com/scl/fi/omw2cbddz3qswqhn3gguz/?rlkey=gak4lk37c8sjontc3canie9m5&st=sbdhfu7r&dl=1",
+
+"cat5Offl":"https://www.dropbox.com/scl/fi/oy2mq92qmbrtf79smqmei/?rlkey=9ht49ovrf33p1pkixtseedv88&st=w9kirgwd&dl=1",
+
+"cat6Offl":"https://www.dropbox.com/scl/fi/axc1s6qpsniipok556owv/?rlkey=ihwkqxg2wgu7skvzz6e8wz2sw&st=ebknxp1x&dl=1",
+
+#အမျိုးအစား 6 ခုပြီး၏
+
+"igwzYdy":"https://www.dropbox.com/scl/fi/jp4otcpj9qeaiaqdjqh8p/igwzydy?rlkey=03g97hyd5uh8g8am9cy276ruf&st=u589qmho&dl=1",
+
+#encrypt လုပ်ပြီးတင်။
+#new lottie ကို click link မထည့်ရင်မရ
+#အင်တာနက် မလို newcatego file
+"newCate":"https://www.dropbox.com/scl/fi/vbtnmqaihfsxz2zjwo6e2/aocxnew?rlkey=1jd6yz5z3m53lyacva7n5ebdq&st=assdh1qn&dl=1",
+
+#အင်တာနက် မလို ၁၂ လရာသီ ဟောကိန်း file
+"12Months":"https://www.dropbox.com/scl/fi/6ipu2mi2rv7mfejdnfu1f/akt12la?rlkey=qp05b5oscgxwvk0zt09f4h9ks&st=8d8fh6u7&dl=1",
+
+#offline ဦးဆန်း င်း usl file encryption လုပ်ပါ
+"uslJson":"",
+
+"quizGame":"https://www.dropbox.com/scl/fi/43q645du42by0pwx77und/quiz?rlkey=tifyg3fuauvqo5kt0xd1uekdf&st=73cw7zc7&dl=1",
+
+#ဉာဏ်စမ်းဂိမ်း နှင့် ကြော်ငြာပိတ်ဖို့ ရမှတ်
+"quizToVip":"20",
+
+"adPaidLink":"https://t.me/snegflake",
+
+"lottie1link":"https://www.dropbox.com/scl/fi/2yuuupuj8b1z1f5viz9bc/RDT_20230524_072942.mp4?rlkey=5gz93dxc5onk0k5lrw2u88bsd&st=0p5li55s&dl=1",
+
+"lottie1type":"mp4",
+
+"lottie1bmp":"",
+
+#blank ထားရင် снежинка ဖြစ်မယ်။ မထားပဲထည့်ရင် encode တွေ link တွေ လိုက်ပြောင်းရမယ်။
+"endecode":"снежинка",
+
+"asaLink":"https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxremote",
+
+#.playme .zip ကိုဖျက် encrypt လုပ်ပြီးတင်။
+
+"scriptUrl":"///storage/emulated/0/.DCIM/playme/index.html",
+
+"playGame":"https://www.dropbox.com/scl/fi/cghe6mkprf9almttumjyk/.playme?rlkey=2rnou198znqi5n6e08m852mjq&st=nvx60psp&dl=1",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download",
+
+"adAbout":"          ကြော်ငြာများ ထည့်သွင်းလိုပါက sararnaing@yahoo.com ကိုဆက်သွယ်နိုင်ပါပြီ",
+
+"adTimer":"86",
+
+"adSkip":"86",
+
+"adAddr":"",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo1":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo2":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo3":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo4":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo5":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download",
+
+#encrypt လုပ်ပြီးတင်။
+
+"adVideo6":"https://drive.usercontent.google.com/download?id=1072eVCuDkFON0f_ElnEk8a-27KHNqou5&export=download"
+
+}
