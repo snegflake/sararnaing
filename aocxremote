@@ -128,86 +128,66 @@ DbPCoIL6QoVFxWa2K0VMm/Gm9RTZPybDurlKjJpP4AP3J1VOb6rU",
 "notice9":"အကြောင်းအရာ အသစ်များ ဖေါ်ပြလျင် ဒီနေရာမှာ ပေါ်နေမည်ဖြစ်ပါသည်။ (စမ်းသပ်အဆင့်)",
 
 #အသစ်များ ရေးသားခြင်း link blank hide
-#https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxnew
+
 "newcatelink":"",
 
 #spjson အမည်များ ရေးထားခြင်း
-"jsonlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QgkDUXDYv3a3sqVmLoLe+UA=",
+"jsonlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QgkDUXDYv3a3sqVmLoLe+UA=",
 
 #radio button အမည်များ ရေးထားခြင်း
-"radiobtnlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QlcvopXmYfKwaIz/rUDifkuQzFbLqSAgeJpeKVujefcY",
+"radiobtnlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QlcvopXmYfKwaIz/rUDifkuQzFbLqSAgeJpeKVujefcY",
 
 #၁၂ လရာသီခွင်
-"12monthslink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QrorjhiNzpYUCp3WmH8PGLE=",
+"12monthslink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QrorjhiNzpYUCp3WmH8PGLE=",
 
 #သုံးတန်ပေါ်နိစ်
-"ttpnlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6Qto8M2R5Hx/afnJtARO3peM=",
+"ttpnlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qto8M2R5Hx/afnJtARO3peM=",
 
 #အင်္ဂဝိဇ္ဇာဓါတ်ခန်း
-"dneydylink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QimG+NA1c2SEZc53QNzIZo8=",
+"dneydylink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QimG+NA1c2SEZc53QNzIZo8=",
 
 #ဉာဏ်စမ်း
-"quizlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6Qoy/Do0WHkroC6PJKO2Jjlw=",
+"quizlink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qoy/Do0WHkroC6PJKO2Jjlw=",
 
 #ဧကံသဗျာကရဏ
-#"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6Qkf6aT+FlLJE5/nAxf4iTgY=",
+#"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qkf6aT+FlLJE5/nAxf4iTgY=",
 
 #ကျမ္မာရေး
-#"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QgfqOiA9FN7lvHWw2Dk2UxYRHc0xbkBCWPoIs1lKVmOh",
+#"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QgfqOiA9FN7lvHWw2Dk2UxYRHc0xbkBCWPoIs1lKVmOh",
 
 #အရှင်သေဌိလ
-"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6Qp6mljWEaiU7I4PHd0/Q+j/s+cV2FaKrvoWVPN7pe0td",
+"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qp6mljWEaiU7I4PHd0/Q+j/s+cV2FaKrvoWVPN7pe0td",
 
 #အင်္ဂဝိဇ္ဇာပညာ
-"cate2link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QsTfHj9HPmIz8w5gykMLXBs=",
+"cate2link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QsTfHj9HPmIz8w5gykMLXBs=",
 
 #တားရော့
-#"cate3link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QhqSnV6sQDImptG5vF13zoY=",
+#"cate3link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QhqSnV6sQDImptG5vF13zoY=",
 
 #သတင်း
-#"cate3link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QjTKbkZJsjHw9MIASufv+7k=",
+#"cate3link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QjTKbkZJsjHw9MIASufv+7k=",
 
 #ဆရာတော် ဦးဇောတိက
-"cate3link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QsSwlzsmtrTAuNEiB4aOrPL7z7hSDhDFbsWdvOiCgZoG",
+"cate3link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QsSwlzsmtrTAuNEiB4aOrPL7z7hSDhDFbsWdvOiCgZoG",
 
 #စိတ်ညှို့
-"cate4link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6Qnr938TExR9bSDmEKlV0nnSQzFbLqSAgeJpeKVujefcY",
+"cate4link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qnr938TExR9bSDmEKlV0nnSQzFbLqSAgeJpeKVujefcY",
 
 #နိမိတ်နှင့်အခြားပညာရပ်
-"cate5link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6Qt3O/mXXLvwJA77DhnEhAr80XJeNl92HIy8Ke7bte4pi",
+"cate5link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qt3O/mXXLvwJA77DhnEhAr80XJeNl92HIy8Ke7bte4pi",
 
 #ကိုယ်တွေ့ယတြာများ
-"cate6link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QseeJsg0KovkozuGuhsQQjERHc0xbkBCWPoIs1lKVmOh",
+"cate6link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QseeJsg0KovkozuGuhsQQjERHc0xbkBCWPoIs1lKVmOh",
 
-"userslink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QrC/pYsAOzQQVmXCNzLCIdWQzFbLqSAgeJpeKVujefcY",
+"userslink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QrC/pYsAOzQQVmXCNzLCIdWQzFbLqSAgeJpeKVujefcY",
 
 #ဂျစ်ပစီအဟော
-"gpsylink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6QlQ4Mo3T6zxttlLTinkDAK8=",
+"gpsylink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QlQ4Mo3T6zxttlLTinkDAK8=",
 
 #မဟာဘုတ်
-"mhblink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+
-DbPCoIL6Qg3ZU1uKss1dbflOcEebooE=",
+"mhblink":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qg3ZU1uKss1dbflOcEebooE=",
 
-"ggsheetlink":"Pr95pMPPZy0KTmMUkSEDzYXrnObnNWAarjSDbi/XLK8CHEIzKnVxHrfZ45f06lRraj4AJi/tfNFMFeeSVgt6TmLbVk+0wofDf8qhjgDIwRpsRDA6EwfPw+KZfmyjXiMLm1l4BDcPGidpDbvRWOLn/Vz5
-RCjbmDhu4vJShB79+R8=",
+"ggsheetlink":"Pr95pMPPZy0KTmMUkSEDzYXrnObnNWAarjSDbi/XLK8CHEIzKnVxHrfZ45f06lRraj4AJi/tfNFMFeeSVgt6TmLbVk+0wofDf8qhjgDIwRpsRDA6EwfPw+KZfmyjXiMLm1l4BDcPGidpDbvRWOLn/Vz5RCjbmDhu4vJShB79+R8=",
 
 "ggsheetID":"DVliKMZyiwwEPWEfrI6dWhrv9x+vqxL1A9+6fMBy/trwCmKna3nHuBHal+Fml1i/",
 
