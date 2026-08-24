@@ -32,7 +32,7 @@
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"cabfd4d5981da3c4 c88ed9e02f989cc7 4295ee8d0ad53c03 9d24cf96dd54e058",
+"noseculist":"cabfd4d5981da3c4 c88ed9e02f989cc7 4295ee8d0ad53c03 ",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
 "scrreclist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be cabfd4d5981da3c4",
@@ -68,10 +68,10 @@
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"4295ee8d0ad53c03 cabfd4d5981da3c4 0b3fd7e15e6ed431 c88ed9e02f989cc7 4295ee8d0ad53c03 9d24cf96dd54e058",
+"olduserslist":"4295ee8d0ad53c03 cabfd4d5981da3c4 0b3fd7e15e6ed431 c88ed9e02f989cc7 4295ee8d0ad53c03 ",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be cabfd4d5981da3c4 0b3fd7e15e6ed431 c88ed9e02f989cc7 562345aceafd7163",
+"profnamelist":"4295ee8d0ad53c03 841796007f4304be cabfd4d5981da3c4 0b3fd7e15e6ed431 c88ed9e02f989cc7 562345aceafd7163",
 
 #IDများနှင့်အမည်များ
 
