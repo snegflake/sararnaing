@@ -11,10 +11,10 @@
 "agepasslist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #mp3 playme lists id ထည့် fr33 ဆို လူတိုင်းရ။
-"playmelist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"playmelist":"4295ee8d0ad53c03 9d24cf96dd54e058 4295ee8d0ad53c03",
 
 #AdRemoveUserID fr33 ဆို Ad မပြ VIP အနေနဲ့ပြ
-"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058 4295ee8d0ad53c03",
 
 #longclick igwz fr33 ဆို လူတိုင်းရ
 "longPress":"4295ee8d0ad53c03 9d24cf96dd54e058",
@@ -32,7 +32,7 @@
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"noseculist":"4295ee8d0ad53c03 9d24cf96dd54e058 4295ee8d0ad53c03",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
 "scrreclist":"4295ee8d0ad53c03 9d24cf96dd54e058",
@@ -71,10 +71,11 @@
 "olduserslist":"4295ee8d0ad53c03 9d24cf96dd54e058",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058 4295ee8d0ad53c03",
 
 #IDများနှင့်အမည်များ
 
+"4295ee8d0ad53c03":"ကြွယ်စင်သာ",
 "4295ee8d0ad53c03":"အတီး",
 "9d24cf96dd54e058":"ladyhug_Offical"
 
