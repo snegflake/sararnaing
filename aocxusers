@@ -11,10 +11,10 @@
 "agepasslist":"9d24cf96dd54e058",
 
 #mp3 playme lists id ထည့် fr33 ဆို လူတိုင်းရ။
-"playmelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4",
+"playmelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
 
 #AdRemoveUserID fr33 ဆို Ad မပြ VIP အနေနဲ့ပြ
-"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4",
+"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
 
 #longclick igwz fr33 ဆို လူတိုင်းရ
 "longPress":"9d24cf96dd54e058 4295ee8d0ad53c03",
@@ -47,7 +47,7 @@
 "cat2list":"9d24cf96dd54e058",
 
 #တားရော့
-"cat3list":"9d24cf96dd54e058",
+"cat3list":"9d24cf96dd54e058 dfd8b25e1ab24adc",
 
 #စိတ်ညှို့ပညာ
 "cat4list":"9d24cf96dd54e058",
@@ -59,10 +59,10 @@
 "cat6list":"9d24cf96dd54e058 cabfd4d5981da3c4",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"9d24cf96dd54e058 cabfd4d5981da3c4",
+"mhblist":"9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
 
 #compass ကိုနှိပ်ရင်
-"complist":"9d24cf96dd54e058 cabfd4d5981da3c4",
+"complist":"9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
@@ -71,10 +71,11 @@
 "olduserslist":"9d24cf96dd54e058",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4",
+"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
 
 #IDများနှင့်အမည်များ
 
+"dfd8b25e1ab24adc":"အဖူး",
 "cabfd4d5981da3c4":"အဲ့",
 "4295ee8d0ad53c03":"ကြွယ်စင်သာ",
 "9d24cf96dd54e058":"လေဒီဟဂ်_မြန်မာ"
