@@ -85,9 +85,13 @@ DbPCoIL6QoVFxWa2K0VMm/Gm9RTZPybDurlKjJpP4AP3J1VOb6rU",
 #"slidertxt1":"“ခေတ်ပြောင်းကျန်းမာရေး”",
 #"notice1":"                    နေမှု၊ ထိုင်မှု၊ စားမှုတွေ ပြောင်းလာမှုကြောင့် ကျန်းမာရေး အသိပညာများကို လိုက်လျောညီထွေ စုစည်းထားပါသည်။",
 
-"igwzSliderImage1":"https://i.pinimg.com/736x/05/d2/63/05d26355b81ba2b80b9542001f9f70a1.jpg",
-"slidertxt1":"“အရှင်သေဌိလ (အရှင်သစ်ထိလ)”",
-"notice1":"                    ဗုဒ္ဓဘာသာကို ကမ္ဘာက သိအောင် ပင်ပန်းဆင်းရဲခံကာ ပြန့်ပွားစေခဲ့တဲ့ အဘိဓမ္မာများ၊ ဗုဒ္ဓဘာသာ အဆီအနှစ်များကို စုဆောင်းထားပါသည်",
+#"igwzSliderImage1":"https://i.pinimg.com/736x/05/d2/63/05d26355b81ba2b80b9542001f9f70a1.jpg",
+#"slidertxt1":"“အရှင်သေဌိလ (အရှင်သစ်ထိလ)”",
+#"notice1":"                    ဗုဒ္ဓဘာသာကို ကမ္ဘာက သိအောင် ပင်ပန်းဆင်းရဲခံကာ ပြန့်ပွားစေခဲ့တဲ့ အဘိဓမ္မာများ၊ ဗုဒ္ဓဘာသာ အဆီအနှစ်များကို စုဆောင်းထားပါသည်",
+
+"igwzSliderImage1":"https://www.dropbox.com/scl/fi/cdgqo0mrwf9ql6jjdmyxv/AddText_08-21-07.24.21.png?rlkey=hvi4bfem2tg0zqegnbqeczsx6&st=30b36qc0&dl=1",
+"slidertxt1":"“ဓမ္မစက္ခု”",
+"notice1":"                    ဗုဒ္ဓဆိုတာ ဘာသာမဟုတ်ပါ။ လောက သဘာဝကို ဆောင်ရန်ရှောင်ရန်များကို ဉာဏ်ရည်အလိုက် ဟောပြ သွန်သင် လမ်းပြခဲ့ခြင်း ဓမ္မများ ဟောပြနိုင်သော အတုမရှိ သိစရာ အကုန်သိသောသူ ဖြစ်ပါသည်။",
 
 "igwzSliderImage2":"https://i.pinimg.com/736x/a9/29/82/a92982615d50230c90e46056c6a89c54.jpg",
 "slidertxt2":"“အင်္ဂဝဇ္ဇာ”",
@@ -156,7 +160,10 @@ DbPCoIL6QtqTBPyqhGLhkceYBfPUUj8OI49CzvQ2bpUHgHTCcsy6",
 #"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QgfqOiA9FN7lvHWw2Dk2UxYRHc0xbkBCWPoIs1lKVmOh",
 
 #အရှင်သေဌိလ
-"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qp6mljWEaiU7I4PHd0/Q+j/s+cV2FaKrvoWVPN7pe0td",
+£"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qp6mljWEaiU7I4PHd0/Q+j/s+cV2FaKrvoWVPN7pe0td",
+
+#ဓမ္မစက္ခု
+"cate1link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6Qpa95PjNpwyNYsfYVDzaN+I=",
 
 #အင်္ဂဝိဇ္ဇာပညာ
 "cate2link":"ySKR90jXGidBIEfjY/4+Int9RsRKRkM/LTZyjr+BdhIvwgTAt4DWSlq2K0tpq1VfkX4gdHjOMoO+DbPCoIL6QsTfHj9HPmIz8w5gykMLXBs=",
