@@ -1,6 +1,6 @@
 #https://raw.githubusercontent.com/snegflake/sararnaing/refs/heads/main/aocxusers
 
-#atee 9d24cf96dd54e058
+#atee 9d24cf96dd54e058 841796007f4304be
 {
 
 
@@ -8,73 +8,74 @@
 "usertipsans":"(၁) အခါတိုင်နဲ့ ဘာတော်လည်း ကြည့်ပါ။ အပြန်အလှန် ကြည့်ပါ။ (၂) အမြစ်အညွှန့် တည့်မတည့် သူ့ဆန္ဒကိုကြည့်ပါ။ ဇောက်ထိုးဆို အလည်အခြာထိခိုက်သည်။ (၃) စောလှလှေဆန် တြိစတု စစ်ပါ။ အလယ်အခြာနဲ့ ဘာတော်လည်းကြည့်ပါ။ တော်တာခိုက်သည်။ (၄) အမြစ် ခိုက်နေတဲ့နေရာတွေက လျှို့ဝှက်ချက်တွေ ဖြစ်သည်။ (၅) ဆပွတ် ပဉ္စပွတ် အပြန်အလှန်စစ်ပါ။ ဇောက်ထိုးဖြစ်ရင် အလည်အခြာခိုက်သည်။ အောက်တန်းက ကိန်းတွေကို စာခြောက်တန်းနဲ့ ချင့်ချိန်ပါ။ ဝတ်လာတဲ့အရောင်၊ ကိုင်လာတဲ့ ပစ္စည်း မိတ်ရန်ဓါတ်ခွဲကြည့်ပါ။ (၆) သာစည်ပင်းယ ပဉ္စပွတ်စတုရန်း၊ ဆပွတ်တြိရန်း ပြောင်းပြန်ဖြစ်နေရင်ခိုက်သည်။ (၇) အပြင်အာယုကပ် ကျမ္မာရေးဟောကွက်မှာ တြိရန်းနှင့်ပဉ္စပွတ် မတည့်ရင် ခိုက်သည်။ (၈) အတွင်းအာယုကပ်က ဆပွတ်နဲ့ စတုရန်း ညှပ်ပြီး အလည်အခြာကို သတ်တာ။ ဘယ်လိုပုံစံဖြစ်ဖြစ် အလည်အခြာထိသည်။ (၉) အထပ်ကပ်လျှက် ဂြိုလ်တွေကို မိတ်ရန်ဓါတ် ခွဲပြီး ဟောပါ။ ဘာသိချင်လဲ မေးပါ။ ပြောစကားထဲက စကားလုံးတွေကို ကိန်းပြောင်းထားပါ။ ပြီးနောက် တစ်ဖက်စာမျက်နှာပါ အကြောင်းအရာများနဲ့ ချင့်ချိန်ပါ။",
 
 #၁၈ နှစ်စစ် fr33 ဆို လူတိုင်းရ။
-"agepasslist":"9d24cf96dd54e058",
+"agepasslist":"9d24cf96dd54e058 841796007f4304be",
 
 #mp3 playme lists id ထည့် fr33 ဆို လူတိုင်းရ။
-"playmelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
+"playmelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc 841796007f4304be",
 
 #AdRemoveUserID fr33 ဆို Ad မပြ VIP အနေနဲ့ပြ
-"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
+"adremusers":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc 841796007f4304be",
 
 #longclick igwz fr33 ဆို လူတိုင်းရ
-"longPress":"9d24cf96dd54e058 4295ee8d0ad53c03",
+"longPress":"9d24cf96dd54e058 4295ee8d0ad53c03 841796007f4304be",
 
 #usertips
-"usertips":"9d24cf96dd54e058",
+"usertips":"9d24cf96dd54e058 841796007f4304be",
 
 #noclean72hours
-"nocln72hrs":"9d24cf96dd54e058",
+"nocln72hrs":"9d24cf96dd54e058 841796007f4304be",
 
 #enendeusers
-"endeusers":"9d24cf96dd54e058",
+"endeusers":"9d24cf96dd54e058 841796007f4304be",
 
 #blockusers
 "blockusers":"",
 
 #passwordbypass အင်္ဂဝိဇ္ဇာပညာနှင့် ဓါတ်ခန်း
-"noseculist":"4295ee8d0ad53c03 9d24cf96dd54e058",
+"noseculist":"4295ee8d0ad53c03 9d24cf96dd54e058 841796007f4304be",
 
 #screenshotblock fr33 ဆို လူတိုင်းရ
-"scrreclist":"9d24cf96dd54e058",
+"scrreclist":"9d24cf96dd54e058 841796007f4304be",
 
 #ဉာဏ်စမ်း
 "quizlist":"fr33",
 
 #ဧကံသ
-"cat1list":"9d24cf96dd54e058",
+"cat1list":"9d24cf96dd54e058 841796007f4304be",
 
 #အင်္ဂဝိဇ္ဇာ
-"cat2list":"9d24cf96dd54e058",
+"cat2list":"9d24cf96dd54e058 841796007f4304be",
 
 #တားရော့
-"cat3list":"9d24cf96dd54e058 dfd8b25e1ab24adc",
+"cat3list":"9d24cf96dd54e058 dfd8b25e1ab24adc 841796007f4304be",
 
 #စိတ်ညှို့ပညာ
-"cat4list":"9d24cf96dd54e058",
+"cat4list":"9d24cf96dd54e058 841796007f4304be",
 
 #အခြားနှင့် နိမိတ်ပညာ
-"cat5list":"9d24cf96dd54e058",
+"cat5list":"9d24cf96dd54e058 841796007f4304be",
 
 #ယတြာများ ပွဲတွေ့ဂါထာများ တင်ထားသည်
-"cat6list":"9d24cf96dd54e058 cabfd4d5981da3c4",
+"cat6list":"9d24cf96dd54e058 cabfd4d5981da3c4 841796007f4304be",
 
 #သုံးတန်ပေါ်နိစ် ဂျစ်ပစီနှင့် မဟာဘုတ်နဲ့တောင်း fr33 ဆို free
-"mhblist":"9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
+"mhblist":"9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc 841796007f4304be",
 
 #compass ကိုနှိပ်ရင်
-"complist":"9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
+"complist":"9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc 841796007f4304be",
 
 #update မလုပ်ဘူးထင်သူစာရင်း
 "notyetupdatelist":"",
 
 #ggsheetကိုစာရင်းပြန်မပို့ရန်
-"olduserslist":"9d24cf96dd54e058",
+"olduserslist":"9d24cf96dd54e058 ",
 
 #အမည်ပြောင်းစာရင်း
-"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc",
+"profnamelist":"4295ee8d0ad53c03 9d24cf96dd54e058 cabfd4d5981da3c4 dfd8b25e1ab24adc 841796007f4304be",
 
 #IDများနှင့်အမည်များ
 
+"841796007f4304be":"not key",
 "dfd8b25e1ab24adc":"အဖူး",
 "cabfd4d5981da3c4":"အဲ့",
 "4295ee8d0ad53c03":"ကြွယ်စင်သာ",
